@@ -1,2 +1,2 @@
-# my-first-form
-My first HTML and CSS project
+My First HTML & CSS Form 
+This is my first form project created using HTML5 and CSS3
